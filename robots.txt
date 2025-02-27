@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pistacia-site.github.io/pistache_image/sitemap.xml
